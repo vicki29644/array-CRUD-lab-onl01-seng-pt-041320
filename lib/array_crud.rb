@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+[] 
 end
 
 def create_an_array
-["Garfield", Morris"]  
+["Garfield", "Morris", "Grumpy Cat","Maru"]  
 
 end
 
